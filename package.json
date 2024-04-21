@@ -1,0 +1,12 @@
+{
+  "name": "@fetsorn/vite-node-worker",
+  "description": "Vite plugin for node worker threads",
+  "version": "1.0.0",
+  "author": "Anton Davydov <fetsorn@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "magic-string": "^0.30.10"
+  }
+}
